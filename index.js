@@ -1,3 +1,4 @@
+
 const readline = require("readline");
 const rl = readline.createInterface({
 	input: process.stdin,
@@ -379,7 +380,6 @@ async function groupBy() {
 		mainMenu();
 	});
 }
-
 
 function clearConsole() {
 	process.stdout.write('\x1Bc')
