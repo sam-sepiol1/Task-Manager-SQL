@@ -20,7 +20,7 @@ This is a command-line interface application for managing tasks, built with Node
 **1. Clone the repository to your local machine:**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sam-sepiol1/Task-Manager-SQL.git
 cd into the folder
 ```
 
